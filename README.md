@@ -28,7 +28,7 @@ https://appstore.gacicv.com/cas-vehicle-app/homepage/info
 使用 Charles rewrite 功能，把请求内容 rewrite 为附件中 app_list.json 中的内容
 
 安装
-下拉刷新应用商店，发现第一个APP已被替换为 via 浏览器，点击安装， 过一会安装完成，之后就可以? via 浏览器下载其他 apk 安装到?机了。 
+下拉刷新应用商店，发现第一个APP已被替换为 via 浏览器，点击安装， 过一会安装完成，之后就可以用 via 浏览器下载其他 apk 安装到车机了。 
 至此！大功告成！
 图?：
 
